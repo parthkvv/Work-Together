@@ -28,9 +28,3 @@ Open a web browser and browse the project. E.g [http://localhost/task_management
 Admin Access
 Email: admin@admin.com
 Password: admin123
-
-I hope this Task Management System will help you with what you are looking for, feel free to download and modify the source code.
-
-Explore more on this website for more source codes and tutorials.
-
-Enjoy!
